@@ -1,0 +1,31 @@
+.Login {
+  float: left;
+  width: 100%;
+  margin: 5px;
+}
+
+#UsuarioLogin{
+border: 1px solid #CCC;
+margin-left: 500px;
+width: 350px;
+height: 250px;
+padding: 1em;
+margin-top: 80px;
+}
+
+.inputText{
+width: 70%;
+height: 20px;
+font-size: 15px;
+color: #444;
+}
+
+.send-buttons{
+width: 20%;
+height: 28px;
+cursor: pointer;
+background: #CCC;
+color: #FFF;
+
+
+}
